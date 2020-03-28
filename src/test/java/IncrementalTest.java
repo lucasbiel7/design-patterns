@@ -15,7 +15,7 @@ public class IncrementalTest {
     }
 
     @Test
-    @DisplayName("2 - Teste para verificar a criação da classe dentro do loop se o seu incrementador vai funcionar corretamente")
+    @DisplayName("2 - Teste para verificar a criação da instancia dentro do loop se o seu incrementador vai funcionar corretamente")
     public void testIncrementalWithLoop(){
         int quantidadeInstancias = Incremental.getCount();
         for (int i = Incremental.getCount(); i< quantidadeInstancias + 10; i++){

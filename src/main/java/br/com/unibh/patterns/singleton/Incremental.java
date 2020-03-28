@@ -1,6 +1,7 @@
 package br.com.unibh.patterns.singleton;
 
 public class Incremental {
+
     private static int count;
     private int numero;
 
