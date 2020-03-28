@@ -1,3 +1,5 @@
+package br.com.unibh.singleton;
+
 import br.com.unibh.patterns.singleton.Incremental;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
