@@ -1,4 +1,4 @@
-# Desgin-patterns
+# Design-patterns
 
 Projeto da disciplina de arquitetura de software para testar alguns padrões de projeto
 
